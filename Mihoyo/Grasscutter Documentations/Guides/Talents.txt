@@ -1,0 +1,248 @@
+Character Talent ID's List
+
+Kamisato Ayaka 
+10024 Normal Atk
+10018 Elemental Skill
+10013 Alternative Sprint
+10019 Elemental Burst
+
+Kamisato Ayato
+10661 Normal Atk
+10662 Elemental Skill
+10665 Elemental Burst
+
+Lisa
+10060 Normal Atk
+10061 Elemental Skill
+10062 Elemental Burst
+
+Barbara
+10070 Normal Atk
+10071 Elemental Skill
+10072 Elemental Burst
+
+Diluc
+10160 Normal Atk
+10161 Elemental Skill
+10165 Elemental Burst
+
+Razor
+10201 Normal Atk
+10202 Elemental Skill
+10203 Elemental Burst
+
+Venti
+10221 Normal Atk
+10224 Elemental Skill
+10225 Elemental Burst
+
+Venti
+10221 Normal Atk
+10224 Elemental Skill
+10225 Elemental Burst
+
+Xiangling
+10231 Normal Atk
+10232 Elemental Skill
+10235 Elemental Burst
+
+Beidou
+10241 Normal Atk
+10242 Elemental Skill
+10245 Elemental Burst
+
+Xingqiu
+10381 Normal Atk
+10382 Elemental Skill
+10385 Elemental Burst
+
+Xiao
+10261 Normal Atk
+10262 Elemental Skill
+10265 Elemental Burst
+
+Ningguang
+10271 Normal Atk
+10272 Elemental Skill
+10274 Elemental Burst
+
+Klee
+10291 Normal Atk
+10292 Elemental Skill
+10295 Elemental Burst
+
+Zhongli
+10301 Normal Atk
+10302 Elemental Skill
+10303 Elemental Burst
+
+Fischl
+10311 Normal Atk
+10312 Elemental Skill
+10313 Elemental Burst
+
+Bennett
+10321 Normal Atk
+10322 Elemental Skill
+10323 Elemental Burst
+
+Tartaglia
+10331 Normal Atk
+10332 Elemental Skill
+10333 Elemental Burst
+
+Qiqi
+10351 Normal Atk
+10352 Elemental Skill
+10353 Elemental Burst
+
+Chongyun
+10401 Normal Atk
+10402 Elemental Skill
+10403 Elemental Burst
+
+Ganyu
+10371 Normal Atk
+10372 Elemental Skill
+10373 Elemental Burst
+
+Albedo
+10386 Normal Atk
+10387 Elemental Skill
+10388 Elemental Burst
+
+Diona
+10391 Normal Atk
+10392 Elemental Skill
+10395 Elemental Burst
+
+Mona
+10411 Normal Atk
+10412 Elemental Skill
+10413 Alternative Sprint
+10415 Elemental Burst
+
+Keqing
+10421 Normal Atk
+10422 Elemental Skill
+10425 Elemental Burst
+
+Sucrose
+10431 Normal Atk
+10432 Elemental Skill
+10435 Elemental Burst
+
+Xinyan
+10441 Normal Atk
+10442 Elemental Skill
+10443 Elemental Burst
+
+Rosaria
+10451 Normal Atk
+10452 Elemental Skill
+10453 Elemental Burst
+
+Hu Tao
+10461 Normal Atk
+10462 Elemental Skill
+10463 Elemental Burst
+
+Kaedehara Kazuha
+10471 Normal Atk
+10472 Elemental Skill
+10475 Elemental Burst
+
+Yanfei 
+10481 Normal Atk
+10482 Elemental Skill
+10485 Elemental Burst
+
+Yoimiya
+10491 Normal Atk
+10492 Elemental Skill
+10495 Elemental Burst
+
+Yoimiya
+10491 Normal Atk
+10492 Elemental Skill
+10495 Elemental Burst
+
+Eula
+10511 Normal Atk
+10512 Elemental Skill
+10515 Elemental Burst
+
+Raiden Shogun 
+10521 Normal Atk
+10522 Elemental Skill
+10525 Elemental Burst
+
+Sayu
+10531 Normal Atk
+10532 Elemental Skill
+10535 Elemental Burst
+
+Sangonomiya Kokomi
+10541 Normal Atk
+10542 Elemental Skill
+10545 Elemental Burst
+
+Gorou
+10551 Normal Atk
+10552 Elemental Skill
+10555 Elemental Burst
+
+Kujou Sara
+10561 Normal Atk
+10562 Elemental Skill
+10565 Elemental Burst
+
+Arataki Itto
+10571 Normal Atk
+10572 Elemental Skill
+10575 Elemental Burst
+
+Yae Miko
+10581 Normal Atk
+10582 Elemental Skill
+10585 Elemental Burst
+
+Aloy
+10621 Normal Atk
+10622 Elemental Skill
+10625 Elemental Burst
+
+Shenhe
+10631 Normal Atk
+10632 Elemental Skill
+10635 Elemental Burst
+
+Shenhe
+10631 Normal Atk
+10632 Elemental Skill
+10635 Elemental Burst
+
+Yunjin
+10641 Normal Atk
+10642 Elemental Skill
+10643 Elemental Burst
+
+Noelle
+10341 Normal Atk
+10342 Elemental Skill
+10343 Elemental Burst
+
+Jean
+10031 Normal Atk
+10033 Elemental Skill
+10034 Elemental Burst
+
+Thoma
+10501 Normal Atk
+10502 Elemental Skill
+10505 Elemental Burst
+
+Kaeya
+10073 Normal Atk
+10074 Elemental Skill
+10075 Elemental Burst
