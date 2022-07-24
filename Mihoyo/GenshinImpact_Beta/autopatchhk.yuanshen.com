@@ -1,5 +1,11 @@
 ----------HK Beta Client----------
 
+Beta Launcher
+https://autopatchhk.yuanshen.com/client_app/beta_pc/20210428_dc004387bbbcbe4b/GenshinImpact_Beta_T1528AH.exe
+
+0.7.1
+https://autopatchhk.yuanshen.com/client_app/pc_plus19/Genshin_0.7.1.zip
+
 1.0.92
 https://autopatchhk.yuanshen.com/client_app/beta_pc/20201022_db9fd8e60e7851bd/GenshinImpact_beta1.0.92.zip
 
@@ -17,6 +23,8 @@ https://autopatchhk.yuanshen.com/client_app/beta_update/hk4e_global/6/game_1.4.5
 https://autopatchhk.yuanshen.com/client_app/beta_pc/20210425_0f86271a6a3df671/c6a1b5c5b9a170e8GenshinImpact_beta_1.5.50.zip
 https://autopatchhk.yuanshen.com/client_app/beta_pc/20210508_700dd9c6927b2c47/GenshinImpact_beta_1.5.52.zip
 https://autopatchhk.yuanshen.com/client_app/beta_update/hk4e_global/10/game_1.5.52_1.5.53_diff_1glJvKYfz4qLNcGm.zip
+https://autopatchhk.yuanshen.com/client_app/beta_pc/20210514_2c34c59e31614d6a/GenshinImpact_Beta_1.5.53.zip
+https://autopatchhk.yuanshen.com/client_app/beta_update/hk4e_global/6/game_1.4.53_1.4.54_diff_hSgCyQi0.zip
 https://autopatchhk.yuanshen.com/client_app/beta_pc/20210520_9b271577312d156b/GenshinImpact_Beta_1.5.54.zip
 
 2.2.50
