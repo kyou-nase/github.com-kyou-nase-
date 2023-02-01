@@ -12,13 +12,13 @@
 <h2 align="center">LANGUAGES USED</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,css,html,dotnet,git,arduino,mongodb" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,cpp,arduino,dotnet,py" />
   </a>
 </p>
 
-<h2 align="center">THINGS TO LEARN</h2>
+<h2 align="center">LANGUAGES I WANT TO LEARN</h2>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cs,ts,js,nodejs,kotlin,lua," />
+<img src="https://skillicons.dev/icons?i=kotlin,cs,ts,js,nodejs,lua," />
 </p>
 
 <h2 align="center">PLATFORMS</h2>
