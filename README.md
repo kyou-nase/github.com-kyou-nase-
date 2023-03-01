@@ -6,7 +6,7 @@
 </a>
 <img width="350" src="https://github-readme-stats.vercel.app/api?username=kyou-nase&title_color=07db3f&text_color=ffffff&hide_border=true&bg_color=0d1117">
 <img width="350" src="https://github-readme-streak-stats.herokuapp.com?user=kyou-nase&theme=github-dark&hide_border=true&date_format=n%2Fj%5B%2FY%5D&mode=weekly">
-<img width="750" height="200"src="https://webstatic.hoyoverse.com/upload/static-resource/2023/01/18/28fb2df5749efe02e1ce13534cd615ce_5144005077519587887.png">
+<img width="750" height="200"src="https://webstatic.hoyoverse.com/upload/static-resource/2023/03/01/5955bb5dcaaec1eb0e67eb9347c6a447_870818358005224181.jpg">
 <p>
 
 <h2 align="center">LANGUAGES USED</h2>
