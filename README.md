@@ -9,19 +9,18 @@
 <img width="750" height="200"src="https://fastcdn.hoyoverse.com/static-resource-v2/2023/07/05/f790cf414213958bd75f3c4c1ab562a5_6676873717056663587.jpg?x-oss-process=image%2Fquality%2Cq_80%2Fauto-orient%2C0%2Finterlace%2C1%2Fformat%2Cwebp">
 <p>
 
-<h2 align="center">LANGUAGES USED</h2>
+<h2 align="center">Language</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,html,css,cpp,arduino,dotnet,py" />
   </a>
 </p>
 
-<h2 align="center">LANGUAGES I WANT TO LEARN</h2>
+<h2 align="center">Platforms</h2>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=kotlin,cs,ts,js,nodejs,lua," />
+<img src="https://count.getloli.com/get/@kyou-nase" alt="kyou-nase" ?theme= gelbooru/>
 </p>
 
-<h2 align="center">PLATFORMS</h2>
 <p align="center">
 <a href="https://discord.com/users/441838654982324224">
 <img src="https://lanyard.cnrad.dev/api/441838654982324224" />
